@@ -9,5 +9,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LisandroPiva&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wallpaper.mob.org%2Fpc%2Fgallery%2Ftag%3Del%2520viaje%2520de%2520chihiro%2F&psig=AOvVaw1Txe-uhV0uGeWH6BI3e8er&ust=1714531801279000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjkker26IUDFQAAAAAdAAAAABAE' style="height: 400px;"/>
+<img src='![image](https://github.com/LisandroPiva/LisandroPiva/assets/151080862/3c8d3638-ce76-4c41-8462-6d930165ccc4)
+' style="height: 400px;"/>
