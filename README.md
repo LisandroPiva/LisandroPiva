@@ -25,4 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras/edit/main/README.md">Enlace a README.md en GitHub</a>
+<a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras/edit/main/README.md">Arquitectura de computadoras</a>
