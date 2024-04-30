@@ -1,5 +1,5 @@
  💫 About Me:
-<br>Hello there, I am Lisandro Piva, I am currently studying computer science<br>
+<br>Hello there, I am Lisandro Piva, I am currently studying 3 careers at UNLP University (Argentina,Buenos Aires,La plata). Bachelor's degree in systems, information and communication technology analyst and analista programador universitario<br>
 
 
 # 💻 Tech Stack:
