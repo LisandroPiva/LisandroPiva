@@ -8,5 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LisandroPiva&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<img src='https://ibb.co/zxW1877' style="height: 400px;"/>
