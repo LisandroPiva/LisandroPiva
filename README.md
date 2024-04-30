@@ -25,4 +25,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras/edit/main/README.md" style="border: 125px solid #1E90FF; padding: 125px; display: inline-block;">Enlace a README.md en GitHub</a>
+<h2 align="center" style="color: #007bff;">Primer año👨‍💻</h2>
+<div align="center">
+    <a href="https://github.com/LisandroPiva/Conceptos-de-Algoritmos-Datos-y-Programas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=algolia&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Mate-1"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Mate-1&theme=algolia&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Organizacion-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Organizacion-de-computadoras&theme=algolia&icon_color=F8D866"></a>
+</div>
+
