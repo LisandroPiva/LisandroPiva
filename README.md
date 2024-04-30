@@ -10,4 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wallpaper.mob.org%2Fpc%2Fgallery%2Ftag%3Del%2520viaje%2520de%2520chihiro%2F&psig=AOvVaw1Txe-uhV0uGeWH6BI3e8er&ust=1714531801279000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjkker26IUDFQAAAAAdAAAAABAE' style="height: 400px;"/>
