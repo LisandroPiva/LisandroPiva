@@ -28,9 +28,9 @@
 <h2 align="center" style="color: #ffff;">🎩Primer año🎩</h2>
 <div align="center" style="background-color: #F8D866;">
     <a href="https://github.com/LisandroPiva/Conceptos-de-Algoritmos-Datos-y-Programas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=midnight-purple&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Taller-de-programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Taller-de-programacion&theme=algolia&icon_color=17202A"></a>
-    <a href="https://github.com/LisandroPiva/Organizacion-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Organizacion-de-computadoras&theme=algolia&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Arquitectura-de-computadoras&theme=algolia&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Taller-de-programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Taller-de-programacion&theme=midnight-purple&icon_color=17202A"></a>
+    <a href="https://github.com/LisandroPiva/Organizacion-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Organizacion-de-computadoras&theme=midnight-purple&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Arquitectura-de-computadoras&theme=midnight-purple&icon_color=F8D866"></a>
 </div>
 
 
