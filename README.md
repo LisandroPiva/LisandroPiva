@@ -12,4 +12,4 @@
 
 <h2 align="center" style="color: #007bff;">Primer año</h2>
 <div align="center">
- <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"><img width="250" src="https://github.com/LisandroPiva/Arquitectura-de-computadoras"></a>
+ <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"></a>
