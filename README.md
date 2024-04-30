@@ -27,17 +27,17 @@
 
 <h2 align="center" style="color: #ffff;">🎩Primer año🎩</h2>
 <div align="center" style="background-color: #F8D866;">
-    <a href="https://github.com/LisandroPiva/Conceptos-de-Algoritmos-Datos-y-Programas"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=midnight-purple&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Taller-de-programacion"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Taller-de-programacion&theme=midnight-purple&icon_color=17202A"></a>
+    <a href="https://github.com/LisandroPiva/Conceptos-de-Algoritmos-Datos-y-Programas"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=midnight-purple&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Taller-de-programacion"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Taller-de-programacion&theme=midnight-purple&icon_color=17202A"></a>
  </div>
  
  <div align="center" style="background-color: #F8D866;">
-    <a href="https://github.com/LisandroPiva/Organizacion-de-computadoras"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Organizacion-de-computadoras&theme=midnight-purple&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Arquitectura-de-computadoras&theme=midnight-purple&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Organizacion-de-computadoras"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Organizacion-de-computadoras&theme=midnight-purple&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Arquitectura-de-computadoras&theme=midnight-purple&icon_color=F8D866"></a>
 </div>
 
 <h2 align="center" style="color: #ffff;">🎩Segundo año🎩</h2>
 <div align="center" style="background-color: #F8D866;">
-    <a href="https://github.com/LisandroPiva/Ingenieria-de-Software-1"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Ingenieria-de-Software-1&theme=midnight-purple&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Introduccion-a-Sistemas-Operativos"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Introduccion-a-Sistemas-Operativos&theme=midnight-purple&icon_color=17202A"></a>
+    <a href="https://github.com/LisandroPiva/Ingenieria-de-Software-1"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Ingenieria-de-Software-1&theme=midnight-purple&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Introduccion-a-Sistemas-Operativos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Introduccion-a-Sistemas-Operativos&theme=midnight-purple&icon_color=17202A"></a>
  </div>
