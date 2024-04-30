@@ -9,5 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LisandroPiva&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src='![image](https://github.com/LisandroPiva/LisandroPiva/assets/151080862/3c8d3638-ce76-4c41-8462-6d930165ccc4)
-' style="height: 400px;"/>
+<img src='https://ibb.co/zxW1877' style="height: 400px;"/>
