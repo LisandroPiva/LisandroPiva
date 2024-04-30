@@ -10,3 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LisandroPiva&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<h2 align="center" style="color: #007bff;">Primer año👨‍💻</h2>
+<div align="center">
+
+ <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabioo66&repo=CADP&theme=algolia&icon_color=F8D866"></a>
