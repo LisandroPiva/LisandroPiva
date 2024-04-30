@@ -17,8 +17,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false 
- " alt="GitHub Stats"><br>
+  ![](https://github-readme-stats.vercel.app/api?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LisandroPiva&theme=midnight-purple&hide_border=false" alt="GitHub Streak Stats"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
