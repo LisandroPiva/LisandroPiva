@@ -27,10 +27,11 @@
 
 <h2 align="center" style="color: #ffff;">🎩Primer año🎩</h2>
 <div align="center">
-    <a href="https://github.com/LisandroPiva/Conceptos-de-Algoritmos-Datos-y-Programas"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=algolia&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Taller-de-programacion"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Taller-de-programacion&theme=algolia&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Organizacion-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Organizacion-de-computadoras&theme=algolia&icon_color=F8D866"></a>
-    <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Arquitectura-de-computadoras&theme=algolia&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Conceptos-de-Algoritmos-Datos-y-Programas" style="color: #1E90FF;"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=algolia&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Taller-de-programacion" style="color: #1E90FF;"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Taller-de-programacion&theme=algolia&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Organizacion-de-computadoras" style="color: #1E90FF;"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Organizacion-de-computadoras&theme=algolia&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Arquitectura-de-computadoras" style="color: #1E90FF;"><img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Arquitectura-de-computadoras&theme=algolia&icon_color=F8D866"></a>
 </div>
+
 
 
