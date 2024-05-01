@@ -36,7 +36,7 @@
 
 <h2 align="center" style="color: #ffff;">🎩Segundo año🎩</h2>
 <div align="center" style="background-color: #F8D866;">
-    <a href="https://github.com/LisandroPiva/Fundamentos-de-Organizacion-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Fundamentos-de-Organizacion-de-Datos&theme=midnight-purple&icon_color=17202A </a>
+    <a href="https://github.com/LisandroPiva/Fundamentos-de-Organizacion-de-Datos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Fundamentos-de-Organizacion-de-Datos&theme=midnight-purple&icon_color=17202A</a>
     <a href="https://github.com/LisandroPiva/Ingenieria-de-Software-1"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Ingenieria-de-Software-1&theme=midnight-purple&icon_color=F8D866"></a>
     <a href="https://github.com/LisandroPiva/Introduccion-a-Sistemas-Operativos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Introduccion-a-Sistemas-Operativos&theme=midnight-purple&icon_color=17202A"></a>
  </div>
