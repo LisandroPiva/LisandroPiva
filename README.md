@@ -3,7 +3,6 @@
 
 # Contact me:
   [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=blue&color=white)](https://discord.com/users/553422684378365954)
-
   [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:lisandropiva@gmail.com)
 
 
