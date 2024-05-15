@@ -23,8 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<h3>Si tenes algunas duda o queres aportar con algo podes enviarmelo a mi Discord:</h3>
- [![Discord](https://img.shields.io/badge/Discord-licho8005-blue?style=for-the-badge&logo=discord)](https://discord.com/users/553422684378365954)
+
+[![Discord](https://img.shields.io/badge/Discord-licho8005-blue?style=for-the-badge&logo=discord)](https://discord.com/users/553422684378365954)
 
 
 
