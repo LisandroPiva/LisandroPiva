@@ -2,7 +2,8 @@
 <br>Hello there, I am Lisandro Piva, I am currently studying 3 careers at UNLP University (Argentina,Buenos Aires,La plata). Bachelor's degree in systems, information and communication technology analyst and university programmer analyst<br>
 
 # Contact me:
-  [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord)](https://discord.com/users/553422684378365954)
+  [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white&labelColor=blue&color=white)](https://discord.com/users/553422684378365954)
+
   [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:lisandropiva@gmail.com)
 
 
