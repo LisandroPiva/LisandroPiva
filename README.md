@@ -23,6 +23,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroPiva&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
+<h3>Si tenes algunas duda o queres aportar con algo podes enviarmelo a mi Discord:</h3>
+ [![Discord Presence](https://lanyard.cnrad.dev/api/261987860327038976?theme=midnight-purple&hideDiscrim=true&animated=true)](https://discord.com/users/licho8005)
+
+
+
 <h2 align="center" style="color: #ffff;">🎩Primer año🎩</h2>
 <div align="center" style="background-color: #F8D866;">
     <a href="https://github.com/LisandroPiva/Conceptos-de-Algoritmos-Datos-y-Programas"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Conceptos-de-Algoritmos-Datos-y-Programas&theme=midnight-purple&icon_color=F8D866"></a>
