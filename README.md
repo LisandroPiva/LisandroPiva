@@ -3,7 +3,7 @@
 
 # Contact me:
   [![Discord](https://img.shields.io/badge/Discord-licho8005-blue?style=for-the-badge&logo=discord)](https://discord.com/users/553422684378365954)
-  [![Email](https://img.shields.io/badge/Email-lisandropiva%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:lisandropiva@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:lisandropiva@gmail.com)
 
 
 # 💻 Tech Stack:
