@@ -24,7 +24,7 @@
 </div>
 
 <h3>Si tenes algunas duda o queres aportar con algo podes enviarmelo a mi Discord:</h3>
- [![Discord Presence](https://lanyard.cnrad.dev/api/?theme=midnight-purple&hideDiscrim=true&animated=true)](https://discord.com/users/licho8005)
+ [![Discord](https://img.shields.io/badge/Discord-licho8005-blue?style=for-the-badge&logo=discord)](https://discord.com/users/553422684378365954)
 
 
 
