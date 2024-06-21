@@ -53,6 +53,15 @@
     <a href="https://github.com/LisandroPiva/Introduccion-a-Sistemas-Operativos"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Introduccion-a-Sistemas-Operativos&theme=midnight-purple&icon_color=17202A"></a>
     <a href="https://github.com/LisandroPiva/AYED "><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=AYED&theme=midnight-purple&icon_color=17202A"></a>
     <a href="https://github.com/LisandroPiva/Orientacion-a-objetos-1"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Orientacion-a-objetos-1&theme=midnight-purple&icon_color=17202A"></a>
+    <a href="https://github.com/LisandroPiva/.Net"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=.Net&theme=midnight-purple&icon_color=17202A"></a>
+
+
+
+
+
+
+
+    
    
 </div>
 
