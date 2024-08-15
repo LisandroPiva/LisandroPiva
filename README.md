@@ -32,6 +32,9 @@
 
 
 <h2 align="center" style="color: #ffff;">🎩Proyectos personales🎩</h2>
+<div align="center" style="background-color: #F8D866;">
+    <a href="https://github.com/LisandroPiva/presupuestApp"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=presupuestApp&theme=midnight-purple&icon_color=F8D866"></a>
+</div>
 
 
 
