@@ -31,7 +31,7 @@
 </div>
 
 
-
+<h2 align="center" style="color: #ffff;">🎩Proyectos personales🎩</h2>
 
 
 
