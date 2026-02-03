@@ -24,7 +24,8 @@
 <div align="center" style="background-color: #F8D866;">
     <a href="https://github.com/LisandroPiva/presupuestApp"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=presupuestApp&theme=midnight-purple&icon_color=F8D866"></a>
     <a href="https://github.com/LisandroPiva/Ingenieria-de-Software-2"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Ingenieria-de-Software-2&theme=midnight-purple&icon_color=F8D866"></a>
-  <a href="https://github.com/LisandroPiva/quizAprender"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=quizAprender&theme=midnight-purple&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/quizAprender"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=quizAprender&theme=midnight-purple&icon_color=F8D866"></a>
+    <a href="https://github.com/LisandroPiva/Inventaria2"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LisandroPiva&repo=Inventaria2&theme=midnight-purple&icon_color=F8D866"></a>
 </div>
 
 <div align="center" style="background-color: #F8D866;">
